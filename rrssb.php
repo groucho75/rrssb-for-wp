@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Ridiculously Responsive Social Sharing Buttons for WordPress
- * Plugin URI: https://github.com/...........
+ * Plugin URI: https://github.com/groucho75/rrssb-for-wp
  * Description: Ridiculously Responsive Social Sharing Buttons for WordPress. It's based on <a href="http://kurtnoble.com/labs/rrssb">Ridiculously Responsive Social Sharing Buttons</a>.
  * Version: 1.0
  * Author: Alessandro Massasso
@@ -10,7 +10,7 @@
  * Text Domain: rrssb-for-wp
  * Domain Path: /languages
  *
- * @link 	https://github.com/..............
+ * @link 	https://github.com/groucho75/rrssb-for-wp
  * @link	https://github.com/kni-labs/rrssb
  * @license	http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
@@ -53,7 +53,6 @@ if ( ! class_exists('Rrssb_For_WP') ) :
          * Access this plugin working instance
          *
          * @wp-hook plugins_loaded
-         * @since   2012.09.13
          * @return  object of this class
          */
         public static function get_instance()
@@ -68,7 +67,6 @@ if ( ! class_exists('Rrssb_For_WP') ) :
          * Used for regular plugin work.
          *
          * @wp-hook plugins_loaded
-         * @since   2012.09.10
          * @return  void
          */
         public function plugin_setup()
@@ -89,7 +87,6 @@ if ( ! class_exists('Rrssb_For_WP') ) :
          * Constructor. Intentionally left empty and public.
          *
          * @see plugin_setup()
-         * @since 2012.09.12
          */
         public function __construct() {}
 
@@ -101,7 +98,6 @@ if ( ! class_exists('Rrssb_For_WP') ) :
          * front-end for example).
          *
          * @wp-hook init
-         * @since   2012.09.11
          * @return  void
          */
         public function load_language()
@@ -130,6 +126,7 @@ if ( ! class_exists('Rrssb_For_WP') ) :
          * Return the tinyurl of an url.
          *
          * @private
+		 * @param	$url
          * @return  string
          */
         private function make_tinyurl( $url='' )
