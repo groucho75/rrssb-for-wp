@@ -1,0 +1,421 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: rrssb-for-wp\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-04-21 16:10+0100\n"
+"PO-Revision-Date: 2015-04-21 16:10+0100\n"
+"Last-Translator: Alessandro Massasso <alessandro.massasso@drivek.it>\n"
+"Language-Team: rrssb-for-wp\n"
+"Language: Italian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././rrssb.php:175
+#, php-format
+msgid "%1$s from %2$s"
+msgstr "%1$s da %2$s"
+
+#: .././rrssb.php:176
+#, php-format
+msgid "%1$s from %2$s: %3$s"
+msgstr "%1$s da %2$s: %3$s"
+
+#~ msgid "test"
+#~ msgstr "aaaa"
+
+#, fuzzy
+#~ msgid "Top Header"
+#~ msgstr "Header"
+
+#~ msgid "Contact us now"
+#~ msgstr "Chiama subito"
+
+#~ msgid "Pages:"
+#~ msgstr "Pagine:"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Where we are"
+#~ msgstr "Dove siamo"
+
+#~ msgid "You cannot set coords in blueprint site."
+#~ msgstr "Non si possono impostare le coordinate nel sito blueprint."
+
+#~ msgid "Put here the latitude and longitude to generate the map."
+#~ msgstr "Inserisci qui latidudine e longitudine per generare la mappa."
+
+#~ msgid "Latitude"
+#~ msgstr "Latitudine"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitudine"
+
+#~ msgid "Our stock %s %s view %s"
+#~ msgstr "Occasioni %s %s vedi %s"
+
+#~ msgid "Our promo %s view %s"
+#~ msgstr "Le nostre occasioni %s vedi %s"
+
+#~ msgid "Discover our services"
+#~ msgstr "Scopri i servizi"
+
+#~ msgid "Discover our services %s view %s"
+#~ msgstr "Scopri i servizi %s vedi %s"
+
+#~ msgid "Our garage"
+#~ msgstr "La nostra officina"
+
+#~ msgid "Our garage %s view %s"
+#~ msgstr "La nostra officina %s vedi %s"
+
+#~ msgid "Home setup"
+#~ msgstr "Setup homepage"
+
+#, fuzzy
+#~ msgid "In this panel you can set the elements in your homepage."
+#~ msgstr ""
+#~ "In questo pannello puoi impostare il carattere per i principali elementi "
+#~ "html."
+
+#~ msgid "Garage"
+#~ msgstr "Officina"
+
+#~ msgid "Services"
+#~ msgstr "Servizi"
+
+#~ msgid "Garage pages"
+#~ msgstr "Pagine officina"
+
+#~ msgid "Service pages"
+#~ msgstr "Pagine servizi"
+
+#~ msgid "Phone"
+#~ msgstr "Tel."
+
+#~ msgid "New %s %s view %s"
+#~ msgstr "Nuovo a terra %s %s vedi %s"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Risultati di ricerca per: %s"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "La pagina richiesta non &egrave; stata trovata."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try one of the "
+#~ "links below or a search?"
+#~ msgstr ""
+#~ "Non ci sono contenuti in questa pagina. Forse puoi provare con uno dei "
+#~ "seguenti link o con una ricerca."
+
+#~ msgid "Read more"
+#~ msgstr "Leggi di più"
+
+#~ msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Continua la lettura %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Nessun risultato trovato"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Nessun contenuto corrisponde ai tuoi criteri di ricerca. Prova con un "
+#~ "criterio diverso."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr "I contenuti che stai cercando non esistono. Prova con una ricerca."
+
+#~ msgid "Skip to content"
+#~ msgstr "Vai al contenuto"
+
+#~ msgid "Comment navigation"
+#~ msgstr "Navigazione commenti"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Commenti pi&ugrave; vecchi"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Commenti pi&ugrave; recenti &rarr;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "I commenti sono chiusi."
+
+#~ msgid "Sidebar"
+#~ msgstr "Sidebar"
+
+#~ msgid "Header Widget"
+#~ msgstr "Header Widget"
+
+#~ msgid "Home main area"
+#~ msgstr "Contenuto home"
+
+#~ msgid "Footer %d"
+#~ msgstr "Footer %d"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Menu principale"
+
+#~ msgid "Mobile primary Menu"
+#~ msgstr "Menu mobile principale"
+
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+#~ msgid "Template"
+#~ msgstr "Template"
+
+#~ msgid "Leave blank to use the theme default."
+#~ msgstr "Lascia vuoto per usare il default del tema."
+
+#~ msgid "Choose a template"
+#~ msgstr "Scegli un template"
+
+#~ msgid "Custom WP_Query"
+#~ msgstr "WP_Query personalizzata"
+
+#~ msgid "all parameters"
+#~ msgstr "tutti i parametri"
+
+#~ msgid "To add content at the top of the page, just after the body open tag"
+#~ msgstr ""
+#~ "Aggiunge contenuto all'inizio della pagina, subito dopo l'apertura del "
+#~ "tag body"
+
+#~ msgid "Before header"
+#~ msgstr "Prima del header"
+
+#~ msgid "To add content just before the header tag."
+#~ msgstr "Aggiunge contenuto prima del tag header."
+
+#~ msgid "Inside header"
+#~ msgstr "Dentro header"
+
+#~ msgid "To add content just after the header open tag."
+#~ msgstr "Aggiunge contenuto subito dopo il tag di apertura header."
+
+#~ msgid "After header"
+#~ msgstr "Dopo header"
+
+#~ msgid "To add content just after the header close tag."
+#~ msgstr "Aggiunge contenuto doopo la chiusura del tag header."
+
+#~ msgid "To <em>replace</em> the header widget."
+#~ msgstr "<em>Sostituisce</em> il widget nel header."
+
+#~ msgid "Main navigation"
+#~ msgstr "Navigazione principale"
+
+#~ msgid "Before navigation"
+#~ msgstr "Prima del menu navigazione"
+
+#~ msgid "To add content just before the main navigation container."
+#~ msgstr "Aggiunge contenuto prima del menu di navigazione."
+
+#~ msgid "After navigation"
+#~ msgstr "Dopo il menu di navigazione"
+
+#~ msgid "To add content just after the main navigation container."
+#~ msgstr "Aggiunge contenuto dopo il menu di navigazione."
+
+#~ msgid "Navigation"
+#~ msgstr "Menu di navigazione"
+
+#~ msgid "To <em>replace</em> the main navigation menu."
+#~ msgstr "<em>Sostituisce</em> il menu di navigazione."
+
+#~ msgid "Main content"
+#~ msgstr "Contenuto principale"
+
+#~ msgid "Before #content"
+#~ msgstr "Prima di #content"
+
+#~ msgid "To add content just before the main <em>#content</em> container."
+#~ msgstr "Aggiunge contenuto prima di <em>#content</em>."
+
+#~ msgid "Before #main"
+#~ msgstr "Prima di #main"
+
+#~ msgid "To add content just before the main <em>#main</em> container."
+#~ msgstr "Aggiunge contenuto prima di <em>#main</em>."
+
+#~ msgid "After #main"
+#~ msgstr "Dopo #main"
+
+#~ msgid "To add content just after the main <em>#main</em> container."
+#~ msgstr "Aggiunge contenuto subito dopo <em>#main</em>."
+
+#~ msgid "After #content"
+#~ msgstr "Dopo #content"
+
+#~ msgid "To add content just after the main <em>#content</em> container."
+#~ msgstr "Aggiunge contenuto subito dopo <em>#content</em>."
+
+#~ msgid "Before loop"
+#~ msgstr "Prima del loop"
+
+#~ msgid "To add content before the loop starts"
+#~ msgstr "Aggiunge contenuto prima dell'inizio del loop"
+
+#~ msgid "After loop"
+#~ msgstr "Dopo il loop"
+
+#~ msgid "To add content after the loop ends"
+#~ msgstr "Aggiunge contenuto al termine del loop"
+
+#~ msgid "Main sidebar"
+#~ msgstr "Sidebar principale"
+
+#~ msgid "Before sidebar"
+#~ msgstr "Prima della sidebar"
+
+#~ msgid "To add content just before the main sidebar."
+#~ msgstr "Aggiunge contenuto prima della sidebar."
+
+#~ msgid "Inside sidebar, after open tag"
+#~ msgstr "Dentro la sidebar, dopo il tag di apertura"
+
+#~ msgid "To add content inside main sidebar, just after the open tag."
+#~ msgstr ""
+#~ "Aggiunge contenuto dentro la sidebar, subito dopo il tag di apertura."
+
+#~ msgid "Inside sidebar, before close tag"
+#~ msgstr "Dentro la sidebar, prima del tag di chiusura"
+
+#~ msgid "To add content inside main sidebar, just before the close tag."
+#~ msgstr "Aggiunge contenuto dentro la sidebar, prima del tag di chiusura."
+
+#~ msgid "After sidebar"
+#~ msgstr "Dopo la sidebar"
+
+#~ msgid "To add content just after the main sidebar."
+#~ msgstr "Aggiunge contenuto dopo la sidebar."
+
+#~ msgid "Footer"
+#~ msgstr "Footer"
+
+#~ msgid "General font style"
+#~ msgstr "Stile carattere generale"
+
+#~ msgid "%s font style"
+#~ msgstr "Stile carattere %s"
+
+#~ msgid "Older posts"
+#~ msgstr "Articoli pi&ugrave; vecchi"
+
+#~ msgid "%s of %s"
+#~ msgstr "%s di %s"
+
+#~ msgid "Newer posts"
+#~ msgstr "Articoli pi&ugrave; nuovi"
+
+#~ msgid "Previous"
+#~ msgstr "Precedenti"
+
+#~ msgid "Next"
+#~ msgstr "Successivi"
+
+#~ msgid "Posted on %s"
+#~ msgstr "Pubblicato il %s"
+
+#~ msgid "by %s"
+#~ msgstr "da %s"
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "Pubblicato in %1$s"
+
+#~ msgid "Tagged %1$s"
+#~ msgstr "Tag %1$s"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Scrivi un commento"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Commento"
+
+#~ msgid "% Comments"
+#~ msgstr "% Commenti"
+
+#~ msgid "Category: %s"
+#~ msgstr "Categoria: %s"
+
+#~ msgid "Tag: %s"
+#~ msgstr "Tag: %s"
+
+#~ msgid "Author: %s"
+#~ msgstr "Autore: %s"
+
+#~ msgid "Year: %s"
+#~ msgstr "Anno: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Mese: %s"
+
+#~ msgid "Day: %s"
+#~ msgstr "Giorno: %s"
+
+#~ msgid "Archives: %s"
+#~ msgstr "Archivi: %s"
+
+#~ msgid "Archives"
+#~ msgstr "Archivi"
+
+#~ msgid "Main menu"
+#~ msgstr "Menu principale"
+
+#~ msgid "Visit"
+#~ msgstr "Visita"
+
+#~ msgid "General layout"
+#~ msgstr "Layout generale"
+
+#~ msgid "Templates"
+#~ msgstr "Template"
+
+#~ msgid "Tracking code"
+#~ msgstr "Codici tracking"
+
+#~ msgid "Typography"
+#~ msgstr "Tipografia"
+
+#~ msgid "Typography options"
+#~ msgstr "Impostazioni tipografiche"
+
+#~ msgid ""
+#~ "In this panel you can add custom html code in different hooks of pages."
+#~ msgstr ""
+#~ "In questo pannello puoi aggiungere codice html personalizzato nei diversi "
+#~ "hook delle pagine."
+
+#, fuzzy
+#~ msgid "Box style"
+#~ msgstr "Stile carattere %s"
+
+#~ msgid ""
+#~ "You are using an <strong>outdated</strong> browser. Please <a href="
+#~ "\"http://browsehappy.com/\">upgrade your browser</a> to improve your "
+#~ "experience."
+#~ msgstr ""
+#~ "Stai usando un browser <strong>obsoleto</strong>. Per favore <a href="
+#~ "\"http://browsehappy.com/\">aggiorna il tuo browser</a> per una "
+#~ "navigazione migliore e sicura."
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Categorie più utilizzate"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Prova a cercare negli archivi mensili. %1$s"
